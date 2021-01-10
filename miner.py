@@ -252,8 +252,7 @@ def welcome_msg():
     print("""       =========================================\n
         CRYPTOKEN - BLOCKCHAIN SYSTEM\n
        =========================================\n\n
-        You can find more help at: https://github.com/sidkaranth\n
-        \n\n\n""")
+        \n""")
 
 
 if __name__ == '__main__':
